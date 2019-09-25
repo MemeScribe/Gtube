@@ -1,5 +1,5 @@
 # Gtube
-A bash script that makes use of youtube-dl to search and download videos through Terminal
+A bash script that makes use of youtube-dl to search and download videos through command line Terminal
 
 //INSTALLING YOUTUBE-DL//
 

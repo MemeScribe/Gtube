@@ -25,7 +25,7 @@ https://ytdl-org.github.io/youtube-dl/index.html
 
 //USING GTUBE//
 
-To use, simple extract the zip file and cd to '../gtube-libraries'.
+To use, simply extract the zip file and cd to '../gtube-libraries'.
 Then run
 $ sh gtube
 
